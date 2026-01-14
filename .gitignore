@@ -1,0 +1,19 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Rider/VSCode
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Secrets / env
+appsettings.Development.json
+.env
+
+# EF local
+*.db
